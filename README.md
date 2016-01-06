@@ -183,4 +183,4 @@ println(soapRequest.xmlString)
   Just drag AEXML.swift into your project and start using it.
 
 ## License
-AEXML is released under the MIT license. See [LICENSE](LICENSE) for details.
+AEXML is released under the MIT license. See [LICENSE](LICENSE) for details. add some words
